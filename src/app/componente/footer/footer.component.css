@@ -1,0 +1,10 @@
+footer {
+    background: #a1b5cd;
+    color:indigo;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 4px -4px 7px rebeccapurple;
+}
