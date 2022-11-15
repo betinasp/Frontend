@@ -10,6 +10,6 @@ export const environment = {
   },
   production: true,
  
-  URL: 'https://backendbetinasp.herokuapp.com/'
+  URL: 'https://backbetinasp.herokuapp.com/'
   
 };
