@@ -10,6 +10,6 @@ export const environment = {
   },
   production: true,
  
-  URL: 'https://backbetinasp.herokuapp.com/'
+  URL: 'https://honest-cornie-betina.koyeb.app/'
   
 };
